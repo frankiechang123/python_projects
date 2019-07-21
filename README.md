@@ -1,4 +1,4 @@
-# Pic-to-Ascii-Char-Converter
+# Pic-to-Ascii-Art-Converter
 A cmd app that convert a picture into a txt file with Ascii characters
 
 A starter's project practicing use of Argparse and Pillow
